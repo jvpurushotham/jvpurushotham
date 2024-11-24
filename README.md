@@ -2,7 +2,7 @@
 
 My name is Purushotham and I am a 21-year-old, second-year Data Science Student at Lpu. Lpu is a coding college based in Punjab. I have finished HAVO (senior general secondary education) and I am currently learning to write in java.
 
-Here is how you can reach me: https://www.linkedin.com/in/jvpurushotham/   jvpurushotham31@gmail.com    
+Here is how you can reach me: linkedin: https://www.linkedin.com/in/jvpurushotham/     email: jvpurushotham31@gmail.com    
 
 🛠️ Projects I am currently working on:
 
