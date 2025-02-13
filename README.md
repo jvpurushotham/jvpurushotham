@@ -1,5 +1,18 @@
 # 💫 About Me:
-🌐 Passionate About Data Exploration <br>I love uncovering insights from raw data, transforming numbers into meaningful stories.<br><br>🎓 Strong Academic Background <br>Equipped with a solid foundation in statistics, machine learning, and programming.<br><br>💡 Proficient in Key Tools & Technologies <br>Skilled in Python, R, SQL, Pandas, NumPy, Matplotlib, and Scikit-learn.<br><br>📊 Data-Driven Problem Solver <br>Enthusiastic about using data to solve real-world problems and drive decision-making.<br>
+🚀 Data Science Enthusiast | Python | Machine Learning | SQL | C++
+Hi there! 👋 I'm passionate about Data Science, exploring Machine Learning models, and solving real-world problems through data-driven insights. With experience in Python, SQL, C, Java and C++ I love working on projects that involve data analysis, visualization, predictive modeling, and automation.
+
+🔹 Skills & Interests:
+✔️ Programming: Python, SQL, C++, C, Java
+✔️ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Atlair, Tkinter, Scipy, Scikit-Learn
+✔️ Databases: MySQL, SQLite, MongoDB
+✔️ Machine Learning: Supervised & Unsupervised Learning
+✔️ Data Analytics: Exploratory Data Analysis (EDA), Feature Engineering, Natural Language Processing (NLP)
+✔️ Tools: Exploratory Data Analysis (EDA), Feature Engineering
+
+💡 Currently, I'm enhancing my skills in machine learning and working on exciting data-driven projects!
+
+📫 Let's connect! Feel free to check out my repositories or reach out for collaboration.
 
 
 ## 🌐 Socials:
