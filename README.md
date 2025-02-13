@@ -8,7 +8,7 @@ Hi there! 👋 I'm passionate about Data Science, exploring Machine Learning mod
 ✔️ Databases: MySQL, SQLite, MongoDB </br>
 ✔️ Machine Learning: Supervised & Unsupervised Learning </br>
 ✔️ Data Analytics: Exploratory Data Analysis (EDA), Feature Engineering, Natural Language Processing (NLP) </br>
-✔️ Tools: Exploratory Data Analysis (EDA), Feature Engineering, Natural Language Processsing (NLP) </br>
+✔️ Tools: Anaconda, PyCharm, VS Code </br>
 
 💡 Currently, I'm enhancing my skills in machine learning and working on exciting data-driven projects! </br>
 
