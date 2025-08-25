@@ -31,5 +31,3 @@ Hi there! 👋 I'm passionate about Data Science, exploring Machine Learning mod
 ---
 [![](https://visitcount.itsvg.in/api?id=jvpurushotham&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/<your-username>/<your-username>/blob/output/github-snake.svg)
-
